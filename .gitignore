@@ -1,0 +1,6 @@
+__pycache__/
+data/
+models/__pycache__/
+*.pt*
+.idea/
+*.csv
